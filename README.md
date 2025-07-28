@@ -4,7 +4,7 @@
 B.Tech CSE Core student at Woxsen University, passionate about coding and technology.
 
 💻 Skills
-- 🖥️ Languages: Python, SQL, Java, C, HTML, CSS, JavaScript
+- 🖥️ Languages: Python, SQL, Java, C++, HTML, CSS, JavaScript
 - ⚙️ Tools: VS Code, MongoDB, NetLogo, IoT
 
 📌 Projects
